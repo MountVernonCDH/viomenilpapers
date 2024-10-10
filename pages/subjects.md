@@ -7,6 +7,10 @@ permalink: /subjects.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
+{% for subject in site.subjects %}
+    <h2>{{subject.title}}</h2>
+{% endfor %}
+
 ## Browse Subjects
 
 Use this word cloud visualization to browse terms and subjects.

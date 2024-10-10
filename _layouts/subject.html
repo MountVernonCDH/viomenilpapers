@@ -3,14 +3,10 @@
 layout: default
 ---
 <div class="container my-4">
-{{ page.title }}
+<h1>{{ page.title }}</h1>
 
-<ul>
-    {% for page_link in page.page_links %}
-      <li>
-        <a href="{{page_link.work_url  | relative_url}}#{{page_link.page_anchor}}">{{ page_link.work_title }} {{ page_link.page_title }}</a> 
-      </li>
-    {% endfor %}
-</ul>
+<a class ="btn btn-primary" href={{ page.title | strip | url_param_escape | prepend: "/browse.html#" | relative_url }}>Browse Related Items</a>
+
+
 
 </div>
