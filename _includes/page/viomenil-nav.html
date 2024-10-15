@@ -1,7 +1,7 @@
-<h2>Table of Contents</h2>
+<h3>Table of Contents</h3>
 
 <ol>
-    <li><a href="#vioménils-life-before-america">Life Before America</a></li>
-    <li><a href="#vioménils-role-in-the-american-revolution">Role in the American Revolution</a></li>
-    <li><a href="#vioménils-final-years">Final Years</a></li>
+{% for inlink in page.inlinks %}
+<li><a href="#{{ inlink.link-anchor }}">{{ inlink.link-name }}</a></li>
+{% endfor %}
 </ol>

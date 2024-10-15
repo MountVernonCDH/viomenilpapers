@@ -4,7 +4,14 @@ layout: bio
 permalink: /viomenil.html
 author: Iris de Rode
 # include CollectionBuilder info at bottom
-credits: true
+credits: false
+inlinks:
+- link-anchor: vioménils-life-before-america
+  link-name: Life Before America
+- link-anchor: vioménils-role-in-the-american-revolution
+  link-name: Role in the American Revolution
+- link-anchor: vioménils-final-years
+  link-name: Final Years
 ---
 
 ## Vioménil's Life Before America
