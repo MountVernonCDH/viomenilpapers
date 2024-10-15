@@ -1,0 +1,20 @@
+---
+# page with a nav bar for long text
+layout: default
+---
+<div class="container-fluid m-2">
+    <div class="row">
+        <div class="col-3 py-5 mx-1 position-fixed shadow-sm vh-100" id="sticky-sidebar">
+            {% include page/viomenil-nav.html %}
+        </div>
+        <div class="col-6 offset-3 py-5 px-6" id="main">
+            <h1>{{ page.title }}</h1>
+            by {{ page.author }}
+            <br/>
+            <br/>
+            <br/>
+            {{ content }}
+        </div>
+    </div>
+</div>
+
