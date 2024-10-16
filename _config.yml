@@ -12,7 +12,7 @@ url: https://MountVernonCDH.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /viomenilpapers
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+source-code: https://github.com/MountVernonCDH/viomenilpapers
 
 ##########
 # SITE SETTINGS
@@ -23,7 +23,7 @@ title: The Correspondence of Baron de Vioménil
 # tagline: Digital Collection Magic with Static Web Technologies
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The Correspondence of Baron de Vioménil Project is part of a grant funded effort at the Washington Library to transcribe and translate the manuscript papers of Vioménil, a French officer who served during the American War for Independence."
+description: "The Correspondence of Baron de Vioménil Project is part of an effort at the George Washington Presidential Library at Mount Vernon to transcribe and translate the manuscript papers of Vioménil, a French officer who served during the American War for Independence. It has been generously funded by the Richard Lounsbery Foundation."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: history;viomenil;mount vernon;american revolution
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
@@ -56,7 +56,7 @@ collections:
 organization-name: "George Washington Presidential Library at Mount Vernon"
 organization-link: https://www.mountvernon.org/library
 organization-logo-banner: /assets/img/library-logo.png
-# organization-logo-nav: /assets/img/viomenil-portrait.png
+organization-logo-nav: /assets/img/gwpl-combo.png
 
 ##########
 # ROBOTS EXCLUDE
