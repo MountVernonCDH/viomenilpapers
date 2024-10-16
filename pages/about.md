@@ -13,6 +13,8 @@ inlinks:
   link-name: The Rediscovery of the Vioménil Papers
 - link-anchor: highlights-of-vioménils-american-revolution-papers
   link-name: Highlights of Vioménil’s American Revolution Papers
+- link-anchor: technical
+  link-name: Technical Credits
 
 
 # Edit the markdown on in this file to describe your collection
