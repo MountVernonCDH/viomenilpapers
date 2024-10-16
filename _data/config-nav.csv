@@ -2,7 +2,9 @@ display_name,stub,dropdown_parent
 Home,/,
 About,/about.html,
 The Baron de Vioménil,/viomenil.html,
-Browse,/browse.html,
+Browse,,,
+Browse All,/browse.html,Browse
 Map,/map.html,
 Timeline,/timeline.html,
 Data,/data.html,
+Highlights,/browse.html#Highlight,Browse
