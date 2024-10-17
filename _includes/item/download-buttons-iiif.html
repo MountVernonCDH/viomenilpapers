@@ -14,7 +14,7 @@
     {% if page.latitude and page.longitude %}
     <a href="{{ '/map.html?location=' | append: page.latitude  | append: ',' | append: page.longitude | append: '&marker=' | append: page.objectid | relative_url }}" class="btn btn-outline-primary">View on Map</a>{% endif %}
     <!--<a href="{{page.link}}" class="btn btn-outline-primary">View on ContentDM</a> -->
-    {% if page.object_transcript = null %}
+    {% if page.object_transcript = null or page.object_transcript = "" %}
     <a href="https://fromthepage.com/gwbooks/the-correspondence-of-baron-de-viomenil-public" class="btn btn-outline-primary">Help Transcribe</a>
     {% endif %}
 </div>
