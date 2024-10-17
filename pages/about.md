@@ -51,7 +51,7 @@ Together with Iris de Rode and the Académie François-Bourdon, George Washingto
 
 ## Highlights of Vioménil’s American Revolution Papers 
 
-<a class="btn btn-primary" href="/browse.html#Highlight" role="button">View Collection Highlights</a>
+<a class="btn btn-primary" href={{"/browse.html#Highlight" | relative_url}} role="button">View Collection Highlights</a>
 
 Baron de Vioménil's military contributions during the American Revolution are detailed in approximately 1,000 pages, covering the period from March 1780 to January 26, 1783, as presented in this scanned database. This collection is a crucial resource for research on the French campaign in North America, providing extensive insights into the logistical organization of the French forces. It includes a wealth of memoirs and instructions that detail troop movements and supply management.
 
