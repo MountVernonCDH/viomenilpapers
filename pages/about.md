@@ -21,7 +21,7 @@ inlinks:
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-
+<a class="btn btn-primary" href="https://fromthepage.com/gwbooks/the-correspondence-of-baron-de-viomenil-public" role="button">Help Transcribe the Papers</a>
 
 ## About The Correspondence of Baron de Vioménil Project
 
