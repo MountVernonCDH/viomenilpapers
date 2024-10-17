@@ -51,6 +51,8 @@ Together with Iris de Rode and the Académie François-Bourdon, George Washingto
 
 ## Highlights of Vioménil’s American Revolution Papers 
 
+<a class="btn btn-primary" href="/browse.html#Highlight" role="button">View Collection Highlights</a>
+
 Baron de Vioménil's military contributions during the American Revolution are detailed in approximately 1,000 pages, covering the period from March 1780 to January 26, 1783, as presented in this scanned database. This collection is a crucial resource for research on the French campaign in North America, providing extensive insights into the logistical organization of the French forces. It includes a wealth of memoirs and instructions that detail troop movements and supply management.
 
 The collection begins with the French army and fleet's departure from Brest, France, and extensively covers their time encamped in [Newport, Rhode Island]({{"/subjects/32162914.html" | relative_url}}), where they spent around 11 months. It then tracks the French forces' journey through the Yorktown campaign, their march back to New England, and their eventual return to France. The collection features numerous letters from Rochambeau to Vioménil, mainly containing instructions for the March to Yorktown, as well as copies and translations of several letters from George Washington.
