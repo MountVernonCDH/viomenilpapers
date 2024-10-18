@@ -2,22 +2,31 @@
 # page with a nav bar for long text
 layout: default
 ---
-<div class="container-fluid m-2">
+
+
+<div class="container">
     <div class="row">
-        <div class="col-3 py-5 mx-1 position-fixed shadow-sm vh-100" id="sticky-sidebar">
-            {% include page/viomenil-nav.html %}
+      <!-- sidebar, which will move to the top on a small screen -->
+      <div class="col-sm-3">
+        <div class="sticky-top pt-5">
+            <h3>Table of Contents</h3>
+
+            <ul class="list-unstyled">
+            {% for inlink in page.inlinks %}
+            <li><a href="#{{ inlink.link-anchor }}" class="link-secondary">{{ inlink.link-name }}</a></li>
+            {% endfor %}
+            </ul>
         </div>
-        <div class="col-6 offset-3 py-5 px-6" id="main">
-            <h1>{{ page.title }}</h1>
-            {% if page.author %}
-            by {{ page.author }}
-            <br/>
-            {% endif %}
-            <br/>
-            <br/>
-            {{ content }}
-        </div>
+      </div>
+      <!-- main content area -->
+      <div class="col-sm-9 mt-5">
+        {{content}}
     </div>
-</div>
+    </div>
+  </div>
+
+
+
+
 
 {% if page.credits == true %}{% include cb/credits.html %}{% endif %}
