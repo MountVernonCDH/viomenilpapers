@@ -5,8 +5,6 @@ permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
 inlinks:
-- link-anchor: about-the-correspondence-of-baron-de-vioménil-project
-  link-name: About the Project
 - link-anchor: custodial-history-of-the-papers
   link-name: Custodial History of the Papers
 - link-anchor: the-rediscovery-of-the-vioménil-papers
@@ -21,11 +19,9 @@ inlinks:
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-<a class="btn btn-primary" href="https://fromthepage.com/gwbooks/the-correspondence-of-baron-de-viomenil-public" role="button">Help Transcribe the Papers</a>
-
-## About The Correspondence of Baron de Vioménil Project
-
 Between 1780 and 1782, during the closing years of the American Revolution, Antoine-Charles, Baron du Houx de Vioménil \(1728-1792\) served as second-in-command of the French expeditionary forces. His leadership supported the 5,500 troops under General [Comte de Rochambeau]({{"/subjects/32166229.html" | relative_url}}), forming a vital auxiliary to [George Washington’s]({{"/subjects/32162841.html" | relative_url}}) Continental Army. Together, the Franco-American efforts culminated in the decisive victory at Yorktown, marking a significant turning point for American independence. 
+
+<a class="btn btn-primary" href="https://fromthepage.com/gwbooks/the-correspondence-of-baron-de-viomenil-public" role="button">Help Transcribe the Papers</a>
 
 Vioménil’s private papers, once thought lost during the French Revolution, were recently rediscovered by Dr. Iris de Rode at the [Académie François Bourdon](https://www.afbourdon.com/), an institution focused on the industrial history of Le Creusot. Thanks to a generous grant from the [Richard Lounsbery Foundation](https://www.rlounsbery.org/) and the cooperation of Académie François Bourdon, these invaluable documents have now been digitized by [The George Washington Presidential Library at Mount Vernon](https://www.mountvernon.org/library). Over 200 papers detailing Vioménil’s American campaign are now available as full-resolution scans on this website, with many of the most important documents transcribed and translated for researchers worldwide.
 
